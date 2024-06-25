@@ -1,0 +1,84 @@
+*
+{
+    margin: 2px;
+    padding: 2px;
+}
+
+.formInicio
+{
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.formInicio input
+{
+    padding: 1rem;
+    margin: 0.5rem;
+    width: 20rem;
+    height: 2rem;
+}
+
+.header
+{
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.enlaces
+{
+    text-align: right;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+
+.enlaces a
+{
+    text-decoration: none;
+}
+
+
+.formInv
+{
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+}
+
+.formInv input
+{
+    padding: 1rem;
+    margin: 0.5rem;
+    width: 20rem;
+    height: 2rem;
+}
+
+.formInv select
+{
+    text-align: center;
+    width: 20rem;
+    height: 2rem;
+}
+
+
+
+.formCrear
+{
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+}
+
+.formCrear input
+{
+    padding: 1rem;
+    margin: 0.5rem;
+    width: 20rem;
+    height: 2rem;
+}
+
+.formCrear select
+{
+    text-align: center;
+    width: 20rem;
+    height: 2rem;
+}
